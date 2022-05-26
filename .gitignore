@@ -2,13 +2,14 @@
 .vs/
 bin/
 bin-int/
+data/
 
 # Files
 *.vcxproj
 *.vcxproj.user
 *.vcxproj.filters
 *.sln
+*.sqbpro
 
 # Exclude
 !vendor/bin
-*.sqbpro
